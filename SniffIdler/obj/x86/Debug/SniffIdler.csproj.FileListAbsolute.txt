@@ -1,0 +1,42 @@
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\bin\Debug\SniffIdler.exe.config
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\bin\Debug\SniffIdler.exe
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\bin\Debug\SniffIdler.pdb
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\obj\x86\Debug\MainWindow.baml
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\obj\x86\Debug\MainWindow.g.cs
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\obj\x86\Debug\App.g.cs
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\obj\x86\Debug\SniffIdler_MarkupCompile.cache
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\obj\x86\Debug\SniffIdler.g.resources
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\obj\x86\Debug\SniffIdler.Properties.Resources.resources
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\obj\x86\Debug\SniffIdler.exe
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\obj\x86\Debug\SniffIdler.pdb
+C:\DATA\Personal_Data\Dumping Station\SniffIdler\SniffIdler\bin\Debug\SniffIdler.exe.config
+C:\DATA\Personal_Data\Dumping Station\SniffIdler\SniffIdler\bin\Debug\SniffIdler.exe
+C:\DATA\Personal_Data\Dumping Station\SniffIdler\SniffIdler\bin\Debug\SniffIdler.pdb
+C:\DATA\Personal_Data\Dumping Station\SniffIdler\SniffIdler\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\DATA\Personal_Data\Dumping Station\SniffIdler\SniffIdler\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\DATA\Personal_Data\Dumping Station\SniffIdler\SniffIdler\obj\x86\Debug\MainWindow.baml
+C:\DATA\Personal_Data\Dumping Station\SniffIdler\SniffIdler\obj\x86\Debug\MainWindow.g.cs
+C:\DATA\Personal_Data\Dumping Station\SniffIdler\SniffIdler\obj\x86\Debug\App.g.cs
+C:\DATA\Personal_Data\Dumping Station\SniffIdler\SniffIdler\obj\x86\Debug\SniffIdler_MarkupCompile.cache
+C:\DATA\Personal_Data\Dumping Station\SniffIdler\SniffIdler\obj\x86\Debug\SniffIdler.g.resources
+C:\DATA\Personal_Data\Dumping Station\SniffIdler\SniffIdler\obj\x86\Debug\SniffIdler.Properties.Resources.resources
+C:\DATA\Personal_Data\Dumping Station\SniffIdler\SniffIdler\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\DATA\Personal_Data\Dumping Station\SniffIdler\SniffIdler\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\DATA\Personal_Data\Dumping Station\SniffIdler\SniffIdler\obj\x86\Debug\SniffIdler.exe
+C:\DATA\Personal_Data\Dumping Station\SniffIdler\SniffIdler\obj\x86\Debug\SniffIdler.pdb
+E:\Dumping Station\Code\Capture idle time of a workstation\C#\SniffIdler\bin\Debug\SniffIdler.exe.config
+E:\Dumping Station\Code\Capture idle time of a workstation\C#\SniffIdler\bin\Debug\SniffIdler.exe
+E:\Dumping Station\Code\Capture idle time of a workstation\C#\SniffIdler\bin\Debug\SniffIdler.pdb
+E:\Dumping Station\Code\Capture idle time of a workstation\C#\SniffIdler\obj\x86\Debug\MainWindow.baml
+E:\Dumping Station\Code\Capture idle time of a workstation\C#\SniffIdler\obj\x86\Debug\MainWindow.g.cs
+E:\Dumping Station\Code\Capture idle time of a workstation\C#\SniffIdler\obj\x86\Debug\App.g.cs
+E:\Dumping Station\Code\Capture idle time of a workstation\C#\SniffIdler\obj\x86\Debug\SniffIdler_MarkupCompile.cache
+E:\Dumping Station\Code\Capture idle time of a workstation\C#\SniffIdler\obj\x86\Debug\SniffIdler.g.resources
+E:\Dumping Station\Code\Capture idle time of a workstation\C#\SniffIdler\obj\x86\Debug\SniffIdler.Properties.Resources.resources
+E:\Dumping Station\Code\Capture idle time of a workstation\C#\SniffIdler\obj\x86\Debug\SniffIdler.csproj.GenerateResource.Cache
+E:\Dumping Station\Code\Capture idle time of a workstation\C#\SniffIdler\obj\x86\Debug\SniffIdler.exe
+E:\Dumping Station\Code\Capture idle time of a workstation\C#\SniffIdler\obj\x86\Debug\SniffIdler.pdb

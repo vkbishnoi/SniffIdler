@@ -1,0 +1,5 @@
+E:\Dumping Station\Code\Capture idle time of a workstation\C#\SniffIdler.BL\bin\Debug\SniffIdler.BL.dll
+E:\Dumping Station\Code\Capture idle time of a workstation\C#\SniffIdler.BL\bin\Debug\SniffIdler.BL.pdb
+E:\Dumping Station\Code\Capture idle time of a workstation\C#\SniffIdler.BL\obj\Debug\SniffIdler.BL.dll
+E:\Dumping Station\Code\Capture idle time of a workstation\C#\SniffIdler.BL\obj\Debug\SniffIdler.BL.pdb
+E:\Dumping Station\Code\Capture idle time of a workstation\C#\SniffIdler.BL\obj\Debug\SniffIdler.BL.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\obj\x86\Debug\MainWindow.baml
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\obj\x86\Debug\MainWindow.g.cs
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\obj\x86\Debug\App.g.cs
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\bin\Debug\SniffIdler.exe.config
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\bin\Debug\SniffIdler.exe
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\bin\Debug\SniffIdler.pdb
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\obj\x86\Debug\SniffIdler_MarkupCompile.cache
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\obj\x86\Debug\SniffIdler.g.resources
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\obj\x86\Debug\SniffIdler.Properties.Resources.resources
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\obj\x86\Debug\SniffIdler.exe
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\obj\x86\Debug\SniffIdler.pdb

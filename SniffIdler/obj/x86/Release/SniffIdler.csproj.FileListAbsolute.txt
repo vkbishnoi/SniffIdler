@@ -1,0 +1,15 @@
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\bin\Release\SniffIdler.exe.config
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\bin\Release\SniffIdler.exe
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\bin\Release\SniffIdler.pdb
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\bin\Release\Xceed.Wpf.Toolkit.dll
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\obj\x86\Release\ResolveAssemblyReference.cache
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\obj\x86\Release\MainWindow.baml
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\obj\x86\Release\MainWindow.g.cs
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\obj\x86\Release\App.g.cs
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\obj\x86\Release\SniffIdler_MarkupCompile.cache
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\obj\x86\Release\SniffIdler.g.resources
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\obj\x86\Release\SniffIdler.Properties.Resources.resources
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\obj\x86\Release\GenerateResource.read.1.tlog
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\obj\x86\Release\GenerateResource.write.1.tlog
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\obj\x86\Release\SniffIdler.exe
+C:\DATA\Personal_Data\Dumping Station\PakdoKC\PakdoKC\obj\x86\Release\SniffIdler.pdb

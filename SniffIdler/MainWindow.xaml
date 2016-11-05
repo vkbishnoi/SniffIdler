@@ -1,0 +1,38 @@
+﻿<Window x:Class="SniffIdler.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:l="http://schemas.xceed.com/wpf/xaml/toolkit"
+        Title="Break Time" Height="122" Width="300" FontSize="14">
+    <l:BusyIndicator x:Name="bi">
+        <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+            <Button x:Name="btnPakdo" Content="Find Idle Time" FontSize="16" Command="{Binding FindKCCommand}"/>
+
+        <Grid Grid.Row="1" Height="40" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="4*"/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="3*"/>
+            </Grid.ColumnDefinitions>
+
+            <Border Grid.Column="0" BorderThickness="1" Margin="3" BorderBrush="Black">
+                <TextBlock Text="{Binding KCDate,StringFormat=Date: {0}}" 
+                           HorizontalAlignment="Left" VerticalAlignment="Center" ToolTip="Observation date"/>
+            </Border>
+            <Border Grid.Column="1" BorderThickness="1" Margin="3" BorderBrush="Black">
+                    <TextBlock Text="{Binding NumberOfTimes, StringFormat=Times: {0}}" 
+                               HorizontalAlignment="Left" VerticalAlignment="Center" ToolTip="Number of times person was away from workstation."/>
+            </Border>
+            <Border Grid.Column="2" BorderThickness="1" Margin="3" BorderBrush="Black">
+                    <TextBlock Text="{Binding KCTime,StringFormat=Minutes: {0}}" 
+                               HorizontalAlignment="Left" VerticalAlignment="Center" ToolTip="Total minutes person was away from workstation."/>
+            </Border>
+        </Grid>
+       
+    </Grid>
+    </l:BusyIndicator>
+</Window>
